@@ -1,4 +1,4 @@
-//Storing a Graph in the from of using STL 
+//Storing a Graph in the from of adjacency list using STL 
 //to form adjacency list.
 #include <bits/stdc++.h>
 
